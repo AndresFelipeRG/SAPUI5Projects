@@ -1,0 +1,17 @@
+[
+	{
+		"ObjectID" : "Game_1",
+		"Name" : "Game 1",
+		"Attribute1" : "Attribute A",
+		"Attribute2" : "Attribute B",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 81
+	}, {
+		"ObjectID" : "Game_2",
+		"Name" : "Game 2",
+		"Attribute1" : "Attribute C",
+		"Attribute2" : "Attribute D",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 42
+	}
+]

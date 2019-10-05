@@ -1,0 +1,45 @@
+[
+	{
+		"LineItemID" : "LineItemID_1",
+		"ObjectID": "Game_1",
+		"Name" : "Session 1",
+		"Attribute" : "Attribute A",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 23
+	}, {
+		"LineItemID" : "LineItemID_2",
+		"ObjectID": "Game_1",
+		"Name" : "Session 2",
+		"Attribute" : "Attribute B",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 42
+	}, {
+		"LineItemID" : "LineItemID_3",
+		"ObjectID": "Game_1",
+		"Name" : "Session 3",
+		"Attribute" : "Attribute C",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 16
+	}, {
+		"LineItemID" : "LineItemID_4",
+		"ObjectID": "Game_2",
+		"Name" : "Session 1",
+		"Attribute" : "Attribute D",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 20
+	}, {
+		"LineItemID" : "LineItemID_5",
+		"ObjectID": "Game_2",
+		"Name" : "Session 2",
+		"Attribute" : "Attribute E",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 10
+	}, {
+		"LineItemID" : "LineItemID_6",
+		"ObjectID": "Game_2",
+		"Name" : "Session 3",
+		"Attribute" : "Attribute F",
+		"UnitOfMeasure" : "Time Played",
+		"UnitNumber" : 12
+	}
+]

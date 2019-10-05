@@ -1,0 +1,11 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml" controllerName="com.demo.NavigationWithoutRouters.controller.View3">
+	<App>
+		<pages>
+			<Page id="page3" title="Target 3">
+				<content>
+				    <Button xmlns="sap.m" text="Back To Source" id="button3" press="backToSource"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

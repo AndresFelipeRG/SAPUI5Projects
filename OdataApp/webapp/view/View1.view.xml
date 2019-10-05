@@ -1,0 +1,17 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="com.demo.odata.OdataApp.controller.View1" displayBlock="true">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+					    <List noDataText="Drop list items here" id="list1" items="{NorthWindDataModel>/Products}">
+					        <items>
+					            <StandardListItem type="Navigation" id="item2" title="{NorthWindDataModel>ProductName}" description="{NorthWindDataModel>UnitsInStock}" press="showAlert" />
+					        </items>
+					    </List>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
